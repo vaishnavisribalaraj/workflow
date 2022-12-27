@@ -1,0 +1,4 @@
+name: Post Welcomr Comment
+on:
+  pull_request:
+    types: [opened]
